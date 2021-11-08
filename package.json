@@ -6,7 +6,7 @@
     "start": "node ./index.js"
   },
   "dependencies": {
-    "apollo-server": "2.1.0",
+    "apollo-server": "2.25.3",
     "graphql": "14.0.2"
   },
   "devDependencies": {
